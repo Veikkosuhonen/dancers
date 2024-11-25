@@ -1,3 +1,15 @@
+# Dancers
+
+A generative algorithmic art installation.
+
+Reacts to audio input. Continuosly running simulation based on the Boids algorithm.
+
+Installation setup: macbook with virtual audio device to route desktop audio to input (`brew install blackhole`). Then play any music.
+
+Builds available in Releases
+
+---
+
 # OPENRNDR template project
 
 A feature rich template for creating OPENRNDR programs based on [Gradle/Kts](https://en.wikipedia.org/wiki/Gradle).
